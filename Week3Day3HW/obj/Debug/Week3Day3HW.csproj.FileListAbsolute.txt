@@ -1,0 +1,12 @@
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\bin\Debug\Week3Day3HW.exe.config
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\bin\Debug\Week3Day3HW.exe
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\bin\Debug\Week3Day3HW.pdb
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.Form1.resources
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.Properties.Resources.resources
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.csproj.GenerateResource.cache
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.exe
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.pdb
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.Game1.resources
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.Game2.resources
+C:\Users\Ramone Nelson\Engineering45\Week3\Day3\Week3Day3HW\Week3Day3HW\obj\Debug\Week3Day3HW.Game3.resources
